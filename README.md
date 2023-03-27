@@ -1,5 +1,3 @@
-# React-Redux-Work-Bench
-
 # Learn to how to use Redux with react
 
 This project was created with react.
