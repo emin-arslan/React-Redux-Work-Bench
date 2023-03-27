@@ -1,4 +1,4 @@
-# Learn to how to use Redux with react
+# Learn  how to use Redux with react
 
 This project was created with react.
 I hope, it will be help to learn Redux
